@@ -2,7 +2,7 @@ Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
 a pocket calculator.
-![Build Status](https://dev.azure.com/christophedelcourt/Agile Planning/_apis/build/status/cdelcourtfplp.calculator?branchName=master)
+![Build Status](https://dev.azure.com/christophedelcourt/AgilePlanning/_apis/build/status/cdelcourtfplp.calculator?branchName=master)
 
 ![example workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg).
 
